@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '32708'
     url: http://www.gutenberg.org/2009/agents/32708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33463#Le-chat-de-la-m-re-Michel--Complainte
 gutenberg_bookshelf:
 - FR Humour
 - FR Jeunesse
