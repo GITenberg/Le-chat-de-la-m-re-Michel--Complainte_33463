@@ -1,0 +1,53 @@
+_repo: Le-chat-de-la-m-re-Michel--Complainte_33463
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hopkins, Livingston
+    alias: Hopkins, L. (Livingston)
+    birthdate: 1846
+    deathdate: 1927
+    gutenberg_agent_id: '42766'
+    url: http://www.gutenberg.org/2009/agents/42766
+covers:
+- cover_type: archival
+  image_path: 33463-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+  - agent_name: La Bédollière, Emile de
+    aliases:
+    - Bédollière, Emile de la
+    - La Bedolliere, Emile de
+    - Labédollière, Emile de
+    - Bédollière, Émile de la
+    - Bédollière, Émile Gigault de la
+    - Labedolliere, Emile de
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '32708'
+    url: http://www.gutenberg.org/2009/agents/32708
+description: ''
+gutenberg_bookshelf:
+- FR Humour
+- FR Jeunesse
+gutenberg_issued: '2010-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33463'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pets -- Poetry'
+- !lcsh 'Cats -- Poetry'
+- !lcc 'PQ'
+- !lcsh 'Older women -- Poetry'
+title: 'Le chat de la mère Michel: Complainte'
+url: http://www.gutenberg.org/ebooks/33463
